@@ -1,5 +1,5 @@
 /***********************************************\
- * Mozio JavaScript challenge
+ * JavaScript challenge
  * Browser support is irrelevant here, but any comments on specific
  * methods you use is a plus to show deeper understanding of the language
 \***********************************************/
